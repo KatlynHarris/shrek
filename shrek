@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Landing Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#">home</a></li>
+      <li><a href="#">about</a></li>
+      <li><a href="#">contact</a></li>
+      </ul>
+      </nav>
+      <main>
+        <h1>Shrek Website</h1>
+        <p>This is your home for all Shrek related content. Enjoy!
+          <a href="https://www.youtube.com/watch?v=U_MJRzWIfxY" target=_blank><img src="https://www.looper.com/img/gallery/these-things-happen-in-every-single-shrek-movie/l-intro-1655497837.jpg" ></a>
+        <h2><em> its a big bright beautiful world</em></h2>
+        <form>
+        <h3> Enter your Shrek Fan Club Info Below! </h3>
+        <label for="Username">Username:</label>
+        <input type="text">
+        <br>
+        <label for="password">Password:</label>
+        <input type="password">
+ </form>
+<button> Enter the Swamp</button>
+     
+           </p>
+
+        </main>
+</body>
+</html>
