@@ -1,0 +1,56 @@
+img {
+  height: 20px;
+  width: 20px;
+  opacity: 0.75;
+  }
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  background-color: lightcyan;
+  background-image: url("https://media.sketchfab.com/models/15753cc5826d4a94830309cf5c8c290d/thumbnails/e99812c5d5844413a32861469ca24f21/b72b6385ce704c63b8417ea922cfe594.jpeg")
+}
+
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  text-align: left;
+  color: green;
+
+
+}
+h3 {
+  font-size: 45px;
+ 
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+main {
+  text-align: center;
+
+}
+a {
+  color: darkgreen;
+
+
+}
+nav {
+  background-color: lightgreen;
+  opacity: 0.5;
+}
+button{
+  background-color: lightgreen;
+  font: bold;
+  border-radius: 80%;
+  height: 50%;
+}
+
+button:hover, p:hover {
+  background-color: white;
+
+}
